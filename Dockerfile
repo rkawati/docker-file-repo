@@ -1,2 +1,2 @@
 FROM nginx:latest
-COPY custom-index.html/usr/share/nginx/html/index.html
+COPY custom-index.html /usr/share/nginx/html/index.html
